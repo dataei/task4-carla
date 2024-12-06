@@ -46,3 +46,6 @@ sudo apt update
 sudo apt install code -y
 
 write in "code"
+conda activate [env-name] in IDE terminal
+python train.py
+
